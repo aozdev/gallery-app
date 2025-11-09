@@ -1,6 +1,6 @@
 # Gallery App
 
-(<a href="https://resimlink.com/RYG9g7ZlUVI" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/RYG9g7ZlUVI.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>)
+<a href="https://resimlink.com/RYG9g7ZlUVI" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/RYG9g7ZlUVI.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>)
 
 A minimalist and open-source image gallery to showcase visual inspiration.
 
